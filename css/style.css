@@ -199,4 +199,11 @@ body {
 .footer .youtube {
   background-color: #ff0000;
 }
+.footer .row li {
+  cursor: pointer;
+  transition: 0.3s;
+}
+.footer .row li:hover {
+  color: white;
+}
 /* End footer */
